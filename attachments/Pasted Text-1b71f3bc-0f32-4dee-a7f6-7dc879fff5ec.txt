@@ -1,0 +1,1338 @@
+You are a senior product designer, conversion-focused web designer, UX strategist, Next.js engineer, SEO specialist, and freelance-business consultant.
+
+I want you to BUILD THE COMPLETE PRODUCTION-READY WEBSITE for my personal web-development business:
+
+DOMAIN:
+https://mazharul.dev
+
+OWNER:
+Md Mazharul Haque
+
+PRIMARY BUSINESS GOAL:
+This website is NOT primarily a developer resume/portfolio.
+
+Its primary purpose is to generate paying small-business website clients.
+
+I want to use the website while prospecting businesses on Google Maps, Instagram, LinkedIn and WhatsApp.
+
+My sales flow will be:
+
+Google Maps / Instagram prospect
+→ identify a visible website/business problem
+→ send personalized DM
+→ prospect asks for examples
+→ send them a relevant page on mazharul.dev
+→ they see a polished website concept for their industry
+→ they contact me
+→ discuss requirements
+→ quote
+→ 50% advance
+→ build their customized website.
+
+Therefore, design and build the website as a CLIENT-ACQUISITION MACHINE, not as a typical junior developer portfolio.
+
+==================================================
+1. CORE POSITIONING
+==================================================
+
+Position me as:
+
+A web designer/developer who builds modern, mobile-first business websites, landing pages and simple business dashboards focused on credibility, enquiries and conversions.
+
+DO NOT position me primarily as:
+
+"Full Stack Developer"
+"React Developer"
+"JavaScript Developer"
+"Software Engineer"
+
+Those technical skills can appear in an appropriate secondary location, but they must NOT dominate the homepage.
+
+The target customer is a small/medium Indian business owner who may not understand technology.
+
+The customer cares about:
+
+- More enquiries
+- More WhatsApp conversations
+- More bookings
+- Better online credibility
+- Better mobile experience
+- Easier customer contact
+- Professional appearance
+- Fast website
+- Clear pricing/process
+- Ownership of their website
+
+They do NOT care about a long list of frameworks.
+
+==================================================
+2. TARGET CLIENTS
+==================================================
+
+Initial target niches:
+
+1. Education / Study Abroad / IELTS / Education Consultancy
+2. Real Estate / Property Agencies
+3. Fitness / Gym / Personal Training
+4. Beauty / Salon / Hair / Makeup
+5. Professional Services / CA / Consultant / Immigration Consultant
+
+The portfolio must have a dedicated website concept/demo for each niche.
+
+==================================================
+3. SITE STRUCTURE
+==================================================
+
+Create:
+
+/
+Home
+
+/services
+Services
+
+/work
+Work / Website Concepts
+
+/work/education
+Education Consultancy Concept
+
+/work/real-estate
+Real Estate Concept
+
+/work/fitness
+Fitness Concept
+
+/work/beauty
+Beauty/Spa Concept
+
+/work/professional
+Professional Services Concept
+
+/about
+About
+
+/contact
+Contact
+
+Also create appropriate:
+- custom 404 page
+- privacy page if needed
+- terms page if needed
+
+Use clean SEO-friendly URLs.
+
+==================================================
+4. HOMEPAGE
+==================================================
+
+The homepage must have these sections in a deliberate conversion-focused order:
+
+A. Navigation
+
+Logo/text:
+MAZHARUL.DEV
+
+Navigation:
+Home
+Services
+Work
+About
+Contact
+
+Primary CTA:
+Start a Project
+
+Navigation must be:
+- responsive
+- sticky
+- elegant
+- accessible
+- mobile-friendly
+
+Do NOT create a hamburger menu that feels cheap or generic.
+
+--------------------------------------------------
+B. HERO
+--------------------------------------------------
+
+Primary headline:
+
+"Websites That Turn Visitors Into Enquiries."
+
+Supporting copy:
+
+"I design and build modern, fast and mobile-first websites for businesses that want a stronger online presence and more customer enquiries."
+
+Primary CTA:
+"View My Work"
+
+Secondary CTA:
+"Start a Project"
+
+Add a subtle trust/positioning line such as:
+
+"Business Websites • Landing Pages • Website Redesign • Business Dashboards"
+
+The hero should immediately communicate:
+WHAT I DO
+WHO IT IS FOR
+WHY IT MATTERS
+
+Do not put a huge code animation or developer terminal in the hero.
+
+--------------------------------------------------
+C. SOCIAL/PROOF STRIP
+--------------------------------------------------
+
+Create a tasteful proof section.
+
+Do NOT invent fake awards, fake clients, fake revenue, fake customer numbers or fake testimonials.
+
+Use only factual information available in this prompt.
+
+I have worked on a real education-related project called:
+
+Students Choice
+
+Website:
+https://www.studentschoice.in/
+
+Treat this as a real project/case study.
+
+Do not claim that I have dozens of clients unless I provide that information.
+
+--------------------------------------------------
+D. SELECTED WEBSITE CONCEPTS
+--------------------------------------------------
+
+Heading:
+
+"See What Your Business Could Look Like."
+
+Supporting text:
+
+"Explore website concepts designed around different business goals—not just different visual styles."
+
+Create 5 premium project cards:
+
+1. Education Consultancy
+Goal:
+Student enquiries / free counselling
+
+2. Real Estate
+Goal:
+Property enquiries / site visits
+
+3. Fitness
+Goal:
+Trial bookings / memberships
+
+4. Beauty
+Goal:
+Appointment bookings
+
+5. Professional Services
+Goal:
+Consultation enquiries
+
+Each card must include:
+- strong visual preview
+- category
+- short business objective
+- View Concept CTA
+- subtle hover interaction
+
+The cards must look like premium case-study cards, NOT generic portfolio thumbnails.
+
+--------------------------------------------------
+E. SERVICES
+--------------------------------------------------
+
+Heading:
+
+"What I Can Build"
+
+Create four service cards:
+
+1. Business Websites
+
+"Professional websites designed around your business, customers and goals."
+
+2. Landing Pages
+
+"Focused pages for services, campaigns, offers and lead generation."
+
+3. Website Redesign
+
+"Modernize an outdated website while preserving the information and functionality that matter."
+
+4. Business Dashboards
+
+"Simple dashboards for tracking leads, sales, operations, inventory or other business data."
+
+Each service should have:
+- useful icon
+- concise description
+- what is included
+- suitable CTA
+
+Do not overuse technical terminology.
+
+--------------------------------------------------
+F. BUSINESS OUTCOME SECTION
+--------------------------------------------------
+
+Create a strong section explaining:
+
+"I don't just build pages."
+
+Then explain:
+
+A website should help a visitor understand:
+- what the business does
+- why they should trust it
+- what action they should take
+- how to contact the business
+
+Show a visual conversion flow:
+
+Visitor
+↓
+Understand
+↓
+Trust
+↓
+Take Action
+↓
+Enquiry / Booking / WhatsApp
+
+This section should make me look like someone who understands business, not someone who only knows coding.
+
+--------------------------------------------------
+G. REAL PROJECT / CASE STUDY
+--------------------------------------------------
+
+Feature:
+
+Students Choice
+
+Description:
+
+"An education-loan platform built to simplify the journey from discovering loan options to submitting an application."
+
+Use the real website:
+https://www.studentschoice.in/
+
+Do not invent performance statistics.
+
+Show a premium case-study presentation.
+
+Possible sections:
+- Overview
+- Challenge
+- Solution
+- Key screens
+- User journey
+- Technology (secondary)
+- Live website CTA
+
+If you need project details that are not provided, DO NOT fabricate them.
+Use neutral wording or mark content as needing replacement.
+
+--------------------------------------------------
+H. HOW IT WORKS
+--------------------------------------------------
+
+Create:
+
+01 — Tell Me About Your Business
+"We understand your services, customers and goals."
+
+02 — Plan & Design
+"We define the structure, content and visual direction."
+
+03 — Build
+"The approved direction is developed into a responsive website."
+
+04 — Launch
+"Your website is configured and prepared for real customers."
+
+Make this visually excellent.
+
+--------------------------------------------------
+I. WHY WORK WITH ME
+--------------------------------------------------
+
+Do NOT use generic claims like:
+"Passionate"
+"Hardworking"
+"Dedicated"
+"Innovative"
+
+Instead use practical benefits:
+
+Mobile First
+"Your website is designed to work properly across phones, tablets and desktops."
+
+Business Focused
+"Every section has a purpose—from building trust to generating enquiries."
+
+Clear Communication
+"You know what is included, what is being built and what happens next."
+
+Client Ownership
+"Your domain and hosting can remain under your own account."
+
+Use subtle icons and clean layout.
+
+--------------------------------------------------
+J. PRICING
+--------------------------------------------------
+
+Do NOT make the site look like a cheap ₹999 freelancer marketplace.
+
+Use:
+
+"Website projects starting from ₹3,999"
+
+Supporting text:
+
+"Final pricing depends on pages, content, functionality and project requirements."
+
+Create a transparent explanation:
+
+Development:
+One-time project fee.
+
+Domain:
+Your website address. Purchased and renewed separately.
+
+Hosting:
+The server service that keeps the website online. Paid separately.
+
+Additional functionality:
+Quoted separately when required.
+
+Important:
+Do NOT invent exact domain/hosting prices.
+
+Explain that clients can purchase these under their own name/account and I can help configure them.
+
+This is important for trust.
+
+--------------------------------------------------
+K. FAQ
+--------------------------------------------------
+
+Create useful FAQs for non-technical business owners:
+
+- How much does a website cost?
+- How long does a website take?
+- Do I need to buy a domain?
+- What is hosting?
+- Can you help me buy/setup domain and hosting?
+- Will the website work on mobile?
+- Can customers contact me through WhatsApp?
+- Can I update the website later?
+- Do you provide website maintenance?
+- What happens after I contact you?
+- What information do you need from me?
+- Do you require an advance payment?
+
+For payment:
+Use a sensible professional structure:
+50% advance before development
+50% before final launch/handover
+
+Clearly state that this is a proposed business policy, not a legal requirement.
+
+--------------------------------------------------
+L. FINAL CTA
+--------------------------------------------------
+
+Headline:
+
+"Have a business that needs a better website?"
+
+Supporting copy:
+
+"Tell me what you're building. I'll help you figure out what the website actually needs—not just what looks good."
+
+CTA:
+"Start a Project"
+
+Secondary:
+"View Work"
+
+--------------------------------------------------
+M. FOOTER
+--------------------------------------------------
+
+Include:
+
+MAZHARUL.DEV
+
+"Websites for businesses that want to look credible and get more enquiries."
+
+Navigation
+Services
+Work
+About
+Contact
+
+Email:
+Use a clearly editable placeholder if an exact business email is not provided.
+
+Social links:
+Use placeholders/config values rather than inventing URLs.
+
+Copyright:
+© 2026 Mazharul.dev
+
+==================================================
+5. WORK PAGE
+==================================================
+
+Create a premium portfolio/case-study page.
+
+Heading:
+
+"Selected Work & Website Concepts"
+
+Description:
+
+"Real project experience and purpose-built concepts for businesses across different industries."
+
+Show:
+
+Students Choice
+Education Consultancy
+Real Estate
+Fitness
+Beauty
+Professional Services
+
+Clearly distinguish:
+REAL PROJECT
+and
+WEBSITE CONCEPT
+
+Do not misrepresent fictional demos as actual clients.
+
+==================================================
+6. FIVE FULLY FUNCTIONAL DEMO WEBSITES
+==================================================
+
+IMPORTANT:
+
+These must NOT be simple screenshots.
+
+Each must be a polished, navigable demo website.
+
+The prospect should be able to click through it and imagine their own business using it.
+
+Each demo should have:
+- navigation
+- hero
+- business-specific sections
+- CTA
+- WhatsApp/contact action
+- testimonials using clearly fictional/demo content
+- FAQ
+- contact section
+- footer
+- responsive mobile design
+- subtle animations
+- realistic but clearly fictional business information
+
+Do not use fake real companies.
+
+Use fictional demo brands.
+
+--------------------------------------------------
+DEMO 1 — EDUCATION
+--------------------------------------------------
+
+Brand:
+GlobalPath Education
+
+Positioning:
+Study abroad consultancy
+
+Hero:
+
+"Your Journey to Study Abroad Starts Here."
+
+Supporting:
+"Expert guidance for university selection, applications and your international education journey."
+
+CTA:
+"Book Free Consultation"
+
+Secondary:
+"Explore Destinations"
+
+Sections:
+- Study Destinations
+- UK
+- USA
+- Canada
+- Australia
+- Our Services
+- University Selection
+- Application Support
+- Visa Guidance
+- Scholarship Guidance
+- Why Choose Us
+- Student Journey
+- Testimonials (clearly demo content)
+- FAQ
+- Free Consultation CTA
+- Contact
+
+Primary conversion:
+Student enquiry.
+
+--------------------------------------------------
+DEMO 2 — REAL ESTATE
+--------------------------------------------------
+
+Brand:
+UrbanNest Realty
+
+Hero:
+
+"Find a Place You'll Love to Call Home."
+
+Supporting:
+"Explore carefully selected residential properties in [City]."
+
+CTA:
+"Explore Properties"
+
+Secondary:
+"Schedule a Site Visit"
+
+Sections:
+- Featured Properties
+- Buy
+- Rent
+- Property categories
+- Property detail cards
+- Why UrbanNest
+- Client Reviews (demo)
+- Site Visit CTA
+- Contact
+
+Each property card:
+- image
+- property type
+- location
+- bedrooms
+- area
+- clearly fictional demo price
+- View Property
+
+Primary conversion:
+Property enquiry / site visit.
+
+--------------------------------------------------
+DEMO 3 — FITNESS
+--------------------------------------------------
+
+Brand:
+IronCore Fitness
+
+Hero:
+
+"Build Strength. Build Discipline."
+
+Supporting:
+"Strength training, personal coaching and structured fitness programs."
+
+CTA:
+"Start Your Free Trial"
+
+Secondary:
+"Explore Programs"
+
+Sections:
+- Programs
+- Personal Training
+- Strength Training
+- Transformation
+- Trainers
+- Membership
+- Gallery
+- Testimonials (demo)
+- FAQ
+- Free Trial CTA
+- Location/contact
+
+Primary conversion:
+Trial booking.
+
+--------------------------------------------------
+DEMO 4 — BEAUTY
+--------------------------------------------------
+
+Brand:
+Aura Luxe Studio
+
+Hero:
+
+"Where Beauty Meets Confidence."
+
+Supporting:
+"Premium hair, skin, makeup and beauty experiences designed around you."
+
+CTA:
+"Book Appointment"
+
+Secondary:
+"Explore Services"
+
+Sections:
+- Services
+- Hair
+- Skin
+- Makeup
+- Bridal
+- Nails
+- Gallery
+- Pricing/starting prices
+- Testimonials (demo)
+- About
+- Appointment CTA
+- Location
+
+Primary conversion:
+Appointment.
+
+--------------------------------------------------
+DEMO 5 — PROFESSIONAL SERVICES
+--------------------------------------------------
+
+Brand:
+FinEdge Advisors
+
+Type:
+Business / financial consultancy
+
+Hero:
+
+"Smarter Financial Decisions. Better Business."
+
+Supporting:
+"Practical accounting, tax and compliance support for growing businesses."
+
+CTA:
+"Book a Consultation"
+
+Sections:
+- Services
+- GST
+- Income Tax
+- Accounting
+- Business Registration
+- Compliance
+- Why Clients Choose Us
+- Expertise
+- Client Reviews (demo)
+- FAQ
+- Consultation CTA
+- Contact
+
+Primary conversion:
+Consultation enquiry.
+
+==================================================
+7. DESIGN DIRECTION
+==================================================
+
+The overall mazharul.dev design should feel:
+
+Premium
+Minimal
+Modern
+Confident
+Business-focused
+Editorial
+Conversion-oriented
+
+Avoid:
+- generic developer portfolio layouts
+- excessive gradients
+- neon colors
+- terminal animations
+- floating code everywhere
+- excessive glassmorphism
+- overdone 3D effects
+- cheap template appearance
+- huge icon collections
+- excessive rounded cards
+- excessive animations
+
+Use:
+- strong typography
+- excellent whitespace
+- sophisticated grid
+- high-quality visual hierarchy
+- subtle borders
+- restrained shadows
+- carefully controlled animation
+- premium image treatment
+- excellent mobile layouts
+
+The website should look expensive even though I am targeting affordable small-business websites.
+
+==================================================
+8. COLOR SYSTEM
+==================================================
+
+Use a sophisticated neutral base with one strong accent.
+
+Suggested:
+- near-black / charcoal text
+- warm/off-white background
+- subtle gray borders
+- one premium accent color
+
+Do NOT make the entire website purple/blue/neon.
+
+You may choose a better palette if it improves the design.
+
+Maintain excellent contrast and accessibility.
+
+==================================================
+9. TYPOGRAPHY
+==================================================
+
+Use a modern premium font pairing.
+
+Prefer:
+Inter
+Manrope
+Plus Jakarta Sans
+or another excellent modern sans-serif.
+
+Do not use more than two font families.
+
+Typography must have:
+- strong hero hierarchy
+- readable body text
+- excellent line height
+- responsive scaling
+- premium editorial feel
+
+==================================================
+10. IMAGES
+==================================================
+
+Use high-quality images appropriate to each industry.
+
+Do not use random unrelated stock photos.
+
+If external image URLs are used:
+- use stable sources
+- optimize images
+- provide proper alt text
+- avoid copyright-risky assets where possible
+
+Better architecture:
+Keep image references centralized so I can replace them later.
+
+Create:
+lib/site-data.ts
+or
+data/projects.ts
+
+for editable project content and image paths.
+
+==================================================
+11. RESPONSIVE DESIGN
+==================================================
+
+This is extremely important.
+
+Design for:
+
+small mobile
+mobile
+tablet
+laptop
+desktop
+large desktop
+
+Do NOT simply shrink desktop.
+
+Mobile must be deliberately designed.
+
+Check:
+- navigation
+- typography
+- spacing
+- project cards
+- buttons
+- forms
+- WhatsApp CTA
+- demo websites
+- image cropping
+- horizontal overflow
+
+There must be NO horizontal scrolling.
+
+==================================================
+12. ACCESSIBILITY
+==================================================
+
+Implement:
+
+- semantic HTML
+- keyboard navigation
+- visible focus states
+- aria labels where necessary
+- accessible forms
+- sufficient color contrast
+- meaningful alt text
+- reduced-motion consideration
+- proper heading hierarchy
+
+==================================================
+13. SEO
+==================================================
+
+Implement production-level SEO.
+
+Create:
+- metadata
+- title templates
+- descriptions
+- canonical URLs
+- Open Graph metadata
+- Twitter/X metadata
+- sitemap
+- robots.txt
+- favicon
+- manifest if useful
+- JSON-LD structured data where appropriate
+
+Target search intent around:
+
+website designer India
+business website developer India
+website design for small business
+business website development
+landing page developer
+website redesign India
+
+Do NOT keyword stuff.
+
+==================================================
+14. PERFORMANCE
+==================================================
+
+Prioritize:
+
+- fast initial load
+- optimized images
+- lazy loading where appropriate
+- minimal client-side JavaScript
+- server components where possible
+- proper font loading
+- avoid unnecessary dependencies
+- no giant animation libraries unless necessary
+- excellent Core Web Vitals
+
+==================================================
+15. CONTACT / LEAD CAPTURE
+==================================================
+
+The Contact page is critical.
+
+Fields:
+
+Name *
+Business Name *
+Email *
+WhatsApp Number *
+Business Type *
+Current Website
+What do you need?
+Budget
+Message
+
+"What do you need?" options:
+
+New Website
+Website Redesign
+Landing Page
+Business Dashboard
+Not Sure
+
+Budget options can be:
+Under ₹5,000
+₹5,000–₹10,000
+₹10,000–₹25,000
+₹25,000+
+Not Sure
+
+Do not make the form intimidating.
+
+Include a WhatsApp CTA as an alternative.
+
+Make all contact details centralized in one config/data file so I can change them easily.
+
+If no backend/email service is configured, implement the UI and provide a clean placeholder integration layer rather than pretending the form actually sends email.
+
+==================================================
+16. CONVERSION DETAILS
+==================================================
+
+Throughout the site use appropriate CTAs:
+
+View Work
+View Concept
+Start a Project
+Book a Consultation
+Book Free Consultation
+Schedule a Site Visit
+Start Free Trial
+Book Appointment
+
+Avoid:
+"Learn More" everywhere.
+
+Every CTA should have a purpose.
+
+Add subtle sticky mobile CTA where appropriate, but do NOT make it annoying.
+
+==================================================
+17. TRUST / SALES PSYCHOLOGY
+==================================================
+
+The site should reduce the customer's fears:
+
+"Will this person understand my business?"
+
+→ business-focused messaging
+
+"Will the website work on mobile?"
+
+→ explicitly communicate mobile-first
+
+"Will I get trapped paying the developer?"
+
+→ client-owned domain/hosting
+
+"Will there be hidden costs?"
+
+→ transparent pricing explanation
+
+"What happens after I contact him?"
+
+→ clear process
+
+"Does he actually know how to build websites?"
+
+→ real Students Choice project + technical credibility in secondary areas
+
+==================================================
+18. ABOUT PAGE
+==================================================
+
+Create a concise professional About page.
+
+Do not write fake biography.
+
+Use only known facts:
+
+Name:
+Md Mazharul Haque
+
+Background:
+B.Tech CSE / Full Stack Development background.
+
+Experience includes:
+web development and a real education-related web project.
+
+Current work experience should not dominate this business website.
+
+The positioning should remain:
+I build practical websites and digital experiences for businesses.
+
+Include:
+- short introduction
+- approach
+- technical capability
+- real project experience
+- CTA
+
+Do not invent years of experience, client count or awards.
+
+==================================================
+19. TECH STACK
+==================================================
+
+Use:
+
+Next.js
+TypeScript
+Tailwind CSS
+
+Use App Router.
+
+Use reusable components.
+
+Use clean architecture.
+
+Suggested structure:
+
+app/
+components/
+data/
+lib/
+public/
+styles/
+
+Use reusable components such as:
+
+Navbar
+Footer
+Hero
+SectionHeading
+ProjectCard
+ServiceCard
+CTASection
+ProcessSection
+FAQ
+ContactForm
+Button
+Container
+
+Demo websites should reuse shared UI primitives where appropriate but each must have its own visual identity.
+
+==================================================
+20. CODE QUALITY
+==================================================
+
+Write complete code.
+
+Do NOT give pseudo-code.
+
+Do NOT say:
+"implement this yourself"
+"add your own images"
+"continue from here"
+
+Actually create all required files.
+
+Use:
+- TypeScript
+- proper types
+- reusable components
+- no unnecessary duplication
+- clean imports
+- accessible HTML
+- responsive Tailwind classes
+- no dead code
+- no console errors
+
+Avoid giant monolithic page files.
+
+==================================================
+21. IMPORTANT CONTENT RULES
+==================================================
+
+Never fabricate:
+
+- real clients
+- revenue
+- number of clients
+- awards
+- testimonials from real people
+- business results
+- certifications I haven't provided
+- years of experience
+- fake partnerships
+
+For fictional demo businesses, clearly treat them as concepts.
+
+For real Students Choice project, only use information that is actually known/provided.
+
+If a fact is unknown:
+DO NOT INVENT IT.
+
+Use editable placeholders where needed.
+
+==================================================
+22. BUSINESS MODEL
+==================================================
+
+The website should support this initial service model:
+
+Business Website:
+Starting from ₹3,999
+
+Landing Page:
+Starting from ₹2,999
+
+Website Redesign:
+Starting from ₹4,999
+
+Business Dashboard:
+Starting from ₹4,999
+
+These are starting prices, NOT fixed quotes.
+
+Final price depends on:
+- number of pages
+- design complexity
+- content
+- integrations
+- functionality
+- third-party services
+
+Domain and hosting are separate.
+
+Client owns the domain/hosting account.
+
+Optional maintenance can be offered separately.
+
+Do not make these prices look cheap or desperate.
+Present them as transparent starting points.
+
+==================================================
+23. IMPORTANT: MAKE THE DEMOS SELLABLE
+==================================================
+
+This is one of the most important requirements.
+
+The five demo websites are NOT there merely to demonstrate coding skill.
+
+They must demonstrate how a real business could use a website to achieve an objective.
+
+For every demo, visually communicate:
+
+BUSINESS
+→ CUSTOMER PROBLEM
+→ WEBSITE SOLUTION
+→ CALL TO ACTION
+
+For example:
+
+Education:
+Student → understands services → trusts consultancy → books counselling
+
+Real Estate:
+Buyer → explores property → views details → schedules visit
+
+Gym:
+Visitor → understands programs → sees transformation → starts trial
+
+Beauty:
+Visitor → sees services → trusts brand → books appointment
+
+Professional:
+Business owner → understands services → builds trust → books consultation
+
+==================================================
+24. PORTFOLIO CASE-STUDY PRESENTATION
+==================================================
+
+For each concept page, include a small "Project Intent" area:
+
+Industry:
+Education
+
+Primary Goal:
+Generate student enquiries
+
+Primary CTA:
+Book Free Consultation
+
+This helps potential clients immediately understand:
+"This website is designed for a business like mine."
+
+==================================================
+25. VISUAL QUALITY BAR
+==================================================
+
+The final result should look like something a serious freelance studio would present to a paying client.
+
+Before considering the implementation complete, inspect every page mentally for:
+
+- alignment
+- spacing
+- typography
+- responsive behavior
+- visual hierarchy
+- CTA visibility
+- consistency
+- accessibility
+- empty states
+- hover states
+- loading states
+- mobile navigation
+- forms
+- footer
+- 404
+- SEO
+- performance
+
+Do not settle for a generic AI-generated template.
+
+==================================================
+26. DEVELOPMENT WORKFLOW
+==================================================
+
+Before writing code:
+
+1. Analyze the requirements.
+2. Define the complete site architecture.
+3. Define the design system.
+4. Define reusable components.
+5. Define data models.
+6. Define routes.
+7. Define SEO strategy.
+8. Define responsive strategy.
+
+Then implement the complete project.
+
+After implementation:
+
+1. Audit every route.
+2. Check for broken links.
+3. Check for missing imports.
+4. Check for TypeScript errors.
+5. Check responsive layouts.
+6. Check accessibility.
+7. Check metadata.
+8. Check CTA consistency.
+9. Check that no fictional claims are presented as real.
+10. Check that all content is editable.
+11. Remove unnecessary dependencies.
+12. Ensure the project can be deployed to Vercel.
+
+==================================================
+27. OUTPUT FORMAT
+==================================================
+
+I want the COMPLETE CODEBASE.
+
+Start by showing:
+
+A. Final architecture
+B. Design system
+C. Route map
+D. Component map
+E. Data structure
+
+Then provide every required file with:
+
+FILE:
+path/to/file
+
+```tsx
+complete code

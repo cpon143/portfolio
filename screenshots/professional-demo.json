@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/work/professional",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Professional services website concept — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 1902,
+      "bodyTextHash": "e9c52d4a1a32f589373db81263aa16930d30614558afd15bcc3c7d0f6b949f1f",
+      "bodyTextPrefix": "WEBSITE CONCEPT Professional Services · Consultation enquiries A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/professional-demo.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Professional services website concept — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 1820,
+      "bodyTextHash": "42a0aa028cc8cf18e4d792ab6c366ae99fde93fb0507b652d2ea1bdb879e09c7",
+      "bodyTextPrefix": "WEBSITE CONCEPT Professional Services Start a Project INDUSTRY P",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/professional-demo-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/professional-demo.json"
+}

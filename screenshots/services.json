@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/services",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Services — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 2553,
+      "bodyTextHash": "9993e9770f1bbba2f762d3f6feb89be62928fbc268ad8f7fd53d759cb2d79458",
+      "bodyTextPrefix": "Skip to content MAZHARUL.DEV Home Services Work About Contact St",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/services.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Services — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 2520,
+      "bodyTextHash": "02965dcc4ac4aacddee772b4366d120da34dda7f02e5c33106e2b68adaa41c67",
+      "bodyTextPrefix": "Skip to content MAZHARUL.DEV SERVICES Websites and simple tools ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/services-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/services.json"
+}

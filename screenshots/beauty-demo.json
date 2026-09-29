@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/work/beauty",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Beauty website concept — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 1402,
+      "bodyTextHash": "36cf6dedf77b15be97e8184c5f2134f52832a2a489efdc9d9ab7eab385864738",
+      "bodyTextPrefix": "WEBSITE CONCEPT Beauty · Appointment bookings All work Start a P",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/beauty-demo.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Beauty website concept — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 1322,
+      "bodyTextHash": "6e6615799c4b2c856da1bc155f0fa837ce8b223925356cfcdb516f1c31a646f4",
+      "bodyTextPrefix": "WEBSITE CONCEPT Beauty Start a Project INDUSTRY Beauty PRIMARY G",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/beauty-demo-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/beauty-demo.json"
+}

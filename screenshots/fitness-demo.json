@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/work/fitness",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fitness website concept — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 1672,
+      "bodyTextHash": "0c37257dfdd2e53ab0835c41480674ee2bcfaae721e76e10f6e59d3282d8f383",
+      "bodyTextPrefix": "WEBSITE CONCEPT Fitness · Trial bookings / memberships All work ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/fitness-demo.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fitness website concept — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 1577,
+      "bodyTextHash": "728f3a620764deeeaae57be59e46ddddd95e42171e9b96e3a8a5a380cdf76dda",
+      "bodyTextPrefix": "WEBSITE CONCEPT Fitness Start a Project INDUSTRY Fitness PRIMARY",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/fitness-demo-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/fitness-demo.json"
+}

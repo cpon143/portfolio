@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/work/real-estate",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Real estate website concept — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 2163,
+      "bodyTextHash": "f29eeabeba16ef3c1b9fa31550328e3b5c8b1000a026090cffae6d40584938db",
+      "bodyTextPrefix": "WEBSITE CONCEPT Real Estate · Property enquiries / site visits A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/real-estate-demo.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Real estate website concept — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 2053,
+      "bodyTextHash": "a2d70a7ee54523ab3a2e45776060e2f1c7b4f78500406aec9b8f78487f64979c",
+      "bodyTextPrefix": "WEBSITE CONCEPT Real Estate Start a Project INDUSTRY Real Estate",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/real-estate-demo-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/real-estate-demo.json"
+}

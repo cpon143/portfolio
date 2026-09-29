@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/work",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Work — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 1409,
+      "bodyTextHash": "5897bc771f03fa6280b068469c64ae276d32f67708274c733a9de26fc536acf7",
+      "bodyTextPrefix": "Skip to content MAZHARUL.DEV Home Services Work About Contact St",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/work.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Work — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 1376,
+      "bodyTextHash": "28c21dd0e3afe48cc83efd6582bbd66477582fbb4f42f11bb6a7fee97f9518be",
+      "bodyTextPrefix": "Skip to content MAZHARUL.DEV WORK Selected Work & Website Concep",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/work-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/work.json"
+}

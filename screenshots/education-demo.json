@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/work/education",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Education website concept — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 2654,
+      "bodyTextHash": "f6ccb5509694d9be73af4a06b7ccde5a614b2fe2234776c992eb635630fd1e4f",
+      "bodyTextPrefix": "WEBSITE CONCEPT Education · Student enquiries / free counselling",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/education-demo.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Education website concept — Mazharul.dev",
+      "hasCanvas": false,
+      "bodyTextLen": 2549,
+      "bodyTextHash": "ca0c5d7a3bf71c24da9087558e870eef08ff684a8ffb57af490bc5f94a559af0",
+      "bodyTextPrefix": "WEBSITE CONCEPT Education Start a Project INDUSTRY Education PRI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/education-demo-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/education-demo.json"
+}

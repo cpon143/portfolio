@@ -1,0 +1,1 @@
+import{h as e}from"./button-eZalgked.js";import{a as t}from"./index-D7mYhIsx.js";import{t as n}from"./ConceptFrame-DoNR77ed.js";import{n as r}from"./RealEstateSite-C4pQddcJ.js";var i=e(),a=t(`real-estate`);function o(){return(0,i.jsx)(n,{project:a,children:(0,i.jsx)(r,{})})}export{o as component};

@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mazharul.dev — Websites that turn visitors into enquiries",
+      "hasCanvas": false,
+      "bodyTextLen": 6198,
+      "bodyTextHash": "f5aeaea07f216df452723d9bb901f290425c187c42df14076c765861638d82ba",
+      "bodyTextPrefix": "Skip to content MAZHARUL.DEV Home Services Work About Contact St",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mazharul.dev — Websites that turn visitors into enquiries",
+      "hasCanvas": false,
+      "bodyTextLen": 6195,
+      "bodyTextHash": "6bd1c4752db1279150ddf6bf82879029227218f4ef531b5801ef1b7578593803",
+      "bodyTextPrefix": "Skip to content MAZHARUL.DEV BUSINESS WEBSITES · LANDING PAGES ·",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

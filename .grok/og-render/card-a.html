@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <style>
+    @font-face {
+      font-family: "Instrument Serif";
+      src: url("../og-fonts/instrument-serif.ttf") format("truetype");
+      font-weight: 400;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: "Plus Jakarta Sans";
+      src: url("../og-fonts/plus-jakarta-400.ttf") format("truetype");
+      font-weight: 400;
+      font-style: normal;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body {
+      width: 1200px;
+      height: 630px;
+      overflow: hidden;
+      background: #F3EFE6;
+    }
+    .card {
+      width: 1200px;
+      height: 630px;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #F3EFE6;
+      background-image:
+        radial-gradient(ellipse at 50% 44%, #FFFDF8 0%, transparent 58%),
+        radial-gradient(rgb(26 25 22 / 0.045) 0.7px, transparent 0.7px);
+      background-size: auto, 5px 5px;
+      color: #1A1916;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    .card::before {
+      content: "";
+      position: absolute;
+      inset: 36px;
+      border: 1px solid rgb(30 58 50 / 0.14);
+      pointer-events: none;
+    }
+    .lockup {
+      position: relative;
+      z-index: 1;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 78%;
+      max-width: 920px;
+    }
+    .mark {
+      width: 32px;
+      height: 32px;
+      margin-bottom: 32px;
+    }
+    .title {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: 108px;
+      line-height: 0.94;
+      letter-spacing: -0.028em;
+      color: #1A1916;
+      white-space: nowrap;
+    }
+    .rule {
+      width: 44px;
+      height: 1.5px;
+      background: #1E3A32;
+      border: 0;
+      margin: 32px 0 26px;
+    }
+    .tag {
+      font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+      font-weight: 400;
+      font-size: 22px;
+      letter-spacing: 0.008em;
+      color: #4A4640;
+      line-height: 1.4;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="lockup">
+      <svg class="mark" viewBox="0 0 32 32" aria-hidden="true">
+        <path d="M8 25V8l8 12 8-12v17" fill="none" stroke="#1E3A32" stroke-width="5.2" stroke-linecap="square" stroke-linejoin="miter"/>
+      </svg>
+      <h1 class="title">MAZHARUL.DEV</h1>
+      <hr class="rule" />
+      <p class="tag">Websites that turn visitors into enquiries.</p>
+    </div>
+  </div>
+</body>
+</html>
